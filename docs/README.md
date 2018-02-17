@@ -2,7 +2,7 @@
 
 ## About this course
 
-This is a prototype of a basic algorithms and programming principles course for kids `aged 8-12`
+This is the prototype of a basic algorithms and programming principles course for kids `aged 8-12`
 
 > Currently in `early development` state
 
